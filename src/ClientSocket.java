@@ -3,10 +3,11 @@ import java.io.*;
 import java.net.*;
 
 public class ClientSocket {
-    public String address = "192.168.4.32";
+    public String address = "";
+    public int serverPort = 0;
     public void run() {
         try {
-            int serverPort = 4020;
+            ;
             InetAddress host = InetAddress.getByName(address);
             System.out.println("Connecting to server on port " + serverPort);
 

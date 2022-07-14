@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="23ece80e-9cbf-4ec4-8004-47c3da59995e" />
+    <targets>
+      <target name="NLD200000@10.176.69.158:22" type="ssh/sftp" uuid="23ece80e-9cbf-4ec4-8004-47c3da59995e">
+        <config>
+          <option name="projectRootOnTarget" value="/home/012/n/nl/nld200000/sc" />
+          <option name="serverName" value="NLD200000@10.176.69.158:22 password" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="classpathFolder">
+              <VolumeState>
+                <option name="remotePath" value="/home/012/n/nl/nld200000/sc" />
+              </VolumeState>
+            </option>
+            <option name="homePath" value="/usr/local" />
+            <option name="javaVersionString" value="1.8.0_172" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
